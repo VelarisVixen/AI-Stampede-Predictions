@@ -200,21 +200,7 @@ TWILIO_WHATSAPP_NUMBER=whatsapp:+14155238886
 MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/safeguard
 ```
 
----
 
-## 📚 **Free Setup Guide**
-
-We provide a comprehensive **FREE setup guide** using free tiers of all services:
-
-- 📄 **[FREE-AZURE-SETUP-GUIDE.md](admin-panel/FREE-AZURE-SETUP-GUIDE.md)**: Complete setup with $0 monthly cost
-- ✅ **Firebase FCM**: Unlimited push notifications (FREE)
-- ✅ **Twilio Trial**: $15 credit for WhatsApp messages
-- ✅ **MongoDB Atlas**: 512MB free database
-- ✅ **Firebase Storage**: 1GB free file storage
-
-**Total Development Cost: $0/month** 🎉
-
----
 
 ## 🗄️ **Database Schema**
 
